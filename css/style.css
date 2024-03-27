@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(188, 222, 222);
+}
+
 img {
     float: left;
-  }
+}
